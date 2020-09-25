@@ -1,0 +1,34 @@
+body{
+   padding:0 10%;
+   background-color: black;
+ 
+}
+header{
+   background-image: url("../img/main.png");
+   height: 100vmin;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position:center;
+}
+.jj{
+   height: 100vmin;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color:white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 50px;
+   font-style: oblique;
+}  
+button{
+   border-color: black;
+   border-radius: 2px;
+   padding: 5px 10px;
+   background-color: rgba(172, 153, 69, 0.534);
+   color: black;
+   margin-left: 90%;
+   
+}  
+      
+
+
